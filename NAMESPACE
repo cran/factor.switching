@@ -1,0 +1,11 @@
+exportPattern("^[[:alpha:]]+")
+S3method(plot, rsp)
+import(coda)
+import(lpSolve)
+import(HDInterval)
+importFrom("graphics", "abline", "axis", "box", "legend", "mtext",
+     "par", "plot", "points")
+importFrom("stats", "runif", "varimax")
+importFrom("utils", "combn")
+
+
