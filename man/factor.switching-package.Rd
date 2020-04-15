@@ -32,7 +32,7 @@ Maintainer: Panagiotis Papastamoulis
 \references{
   Papastamoulis, P. and Ntzoufras, I. (2020).
   On the identifiability of Bayesian Factor Analytic models.
-  \emph{arXiv preprint,} \bold{(to appear)}.
+  \emph{arXiv:2004.05105 [stat.ME]}.
 }
 \keyword{ package }
 \seealso{

@@ -52,13 +52,12 @@ If necessary, more details than the description above.
 \item{objective_function }{A two-column matrix containing the time-to-reach and the value of the objective function for each iteration.}
 }
 \references{
-put references to the literature/web site here.
+  Papastamoulis, P. and Ntzoufras, I. (2020).
+  On the identifiability of Bayesian Factor Analytic models.
+  \emph{arXiv:2004.05105 [stat.ME]}.
 }
 \author{
 Panagiotis Papastamoulis
-}
-\note{
-further notes.
 }
 
 \examples{
