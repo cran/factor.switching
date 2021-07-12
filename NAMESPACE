@@ -7,5 +7,6 @@ importFrom("graphics", "abline", "axis", "box", "legend", "mtext",
      "par", "plot", "points")
 importFrom("stats", "runif", "varimax")
 importFrom("utils", "combn")
+importFrom("MCMCpack", "procrustes")
 
 
