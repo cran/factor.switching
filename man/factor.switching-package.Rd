@@ -30,9 +30,9 @@ Panagiotis Papastamoulis
 Maintainer: Panagiotis Papastamoulis
 }
 \references{
-  Papastamoulis, P. and Ntzoufras, I. (2020).
+  Papastamoulis, P. and Ntzoufras, I. (2022).
   On the identifiability of Bayesian Factor Analytic models.
-  \emph{arXiv:2004.05105 [stat.ME]}.
+  \emph{Statistics and Computing}, 32, 23 (2022) https://doi.org/10.1007/s11222-022-10084-4.
 }
 \keyword{ package }
 \seealso{

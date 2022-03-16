@@ -1,12 +1,12 @@
-03ddaef4fa9e7c8d0c77f3b5d0ee9e86 *DESCRIPTION
+40052f6a5929b3d19cd59e5e625502a1 *DESCRIPTION
 969d19e1f13e840dc75b9efc8b3ebd9a *NAMESPACE
 346b713a8a452b28127945cc09b6c2c5 *R/factorRotations.R
-9fcb72e236e56fb1b51ce09038c5537d *build/partial.rdb
+9c1cedfb0e58a3d0d8103cc11f0a64f5 *build/partial.rdb
 2d6743f6ea06434dff11db2728eb0d63 *data/small_posterior_2chains.RData
-b4120834adfb8895f92ad49fb0c983a6 *inst/CITATION
+d113eb9cdacb126f8fcb0e1fcda38287 *inst/CITATION
 514750e73fc3412dcc9b929839f9db9d *man/compareMultipleChains.Rd
 7a4e70110e4cd4408ef0d657a0674328 *man/credible.region.Rd
-0305f7c70fa67dfb826d0f9837f5fe88 *man/factor.switching-package.Rd
+07f0aa91880627cbd950efbc7386d9dc *man/factor.switching-package.Rd
 aae94033934e4c5a464159a6926d93da *man/plot.rsp.Rd
 f621514e54eed6224e09675f6b36f8a0 *man/procrustes_switching.Rd
 12d7fecf60f1b42d86c8cd0dbe277257 *man/rsp_exact.Rd
