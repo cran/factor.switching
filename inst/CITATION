@@ -1,12 +1,11 @@
-citHeader("To cite package 'factor.switching' in publications, please, use:")
-
-
-citEntry(entry   = "Article",
-         title   = "On the identifiability of Bayesian factor analytic models.",
-         author  = personList(as.person("Panagiotis Papastamoulis"), as.person("Ioannis Ntzoufras")),
+bibentry("Article",
+         title = "On the identifiability of Bayesian factor analytic models.",
+         author = c(as.person("Panagiotis Papastamoulis"), as.person("Ioannis Ntzoufras")),
          journal = "Statistics and Computing",
          year    = "2022",
-	 volume  = "32",
-	 doi     = "10.1007/s11222-022-10084-4",
-         textVersion = "Papastamoulis, P., Ntzoufras, I. On the identifiability of Bayesian factor analytic models. Stat Comput 32, 23 (2022). https://doi.org/10.1007/s11222-022-10084-4")
+	 volume  = "32",         
+         doi     = "10.1007/s11222-022-10084-4",
+        textVersion = "Papastamoulis, P., Ntzoufras, I. On the identifiability of Bayesian factor analytic models. Stat Comput 32, 23 (2022). https://doi.org/10.1007/s11222-022-10084-4",    
+         mheader = "To cite package 'factor.switching' in publications, please, use the following article:"
+        )
 

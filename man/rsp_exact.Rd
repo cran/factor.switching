@@ -29,9 +29,6 @@ Logical. Default: TRUE.
 Print the progress of the algorithm when processing \code{printIter} MCMCdraws, per iteration. Default: 1000.
 }
 }
-\details{
-If necessary, more details than the description above.
-}
 \value{
 \item{lambda_reordered_mcmc }{Post-processed MCMC sample of factor loadings.}
 \item{sign_vectors }{The final sign-vectors.}

@@ -30,9 +30,6 @@ This is argument is always set to TRUE.
 Print the progress of the algorithm when processing \code{printIter} MCMCdraws, per iteration. Default: 1000.
 }
 }
-\details{
-If necessary, more details than the description above.
-}
 \value{
 \item{lambda_reordered_mcmc }{Post-processed MCMC sample of factor loadings.}
 \item{lambda_hat }{The resulting average of the post-processed MCMC sample of factor loadings.}
